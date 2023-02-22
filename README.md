@@ -63,7 +63,7 @@ W świecie gry zostało ustawionych wiele przedmiotów do podnoszenia, które um
 ![alt text](https://github.com/Kamien-Kowala/-GAME-EscapeRoom/blob/main/Screens/480_20230222155545_1.png?raw=true)
 
 ### Telewizor
-Jeżeli w domu zostało włączone zasilanie telewizor zostaje włączony i pozwala na oglądanie kilku dostępnych kanałów. Po upłynięciu odpowiedniej ilości czasu lub obejrzeniu wszystkich filmów pokazuje nam się ostateczne nagranie.
+Jeżeli w domu zostało włączone zasilanie telewizor zostaje włączony i pozwala na oglądanie kilku dostępnych kanałów. Po upłynięciu odpowiedniej ilości czasu lub obejrzeniu wszystkich filmów pokazuje się ostateczne nagranie.
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-EscapeRoom/blob/main/Screens/480_20230222155753_1.png?raw=true)
 
