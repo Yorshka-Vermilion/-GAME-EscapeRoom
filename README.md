@@ -19,7 +19,7 @@ Cała gra opiera się głównie na interakcji z obiektami znajdującymi się w d
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-EscapeRoom/blob/main/Screens/480_20230222155557_1.png?raw=true)
 
-![alt text](https://github.com/Kamien-Kowala/-GAME-EscapeRoom/blob/main/Screens/480_20230222155658_1.png?raw=true)
+
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-EscapeRoom/blob/main/Screens/480_20230222155738_1.png?raw=true)
 
